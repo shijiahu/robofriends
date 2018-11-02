@@ -2,7 +2,7 @@
   "name": "robofriends",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://shijiahu.github.io/robofriends",
+  "homepage": "https://shijiahu.github.io/robofriends",
   "dependencies": {
     "merge": "^1.2.1",
     "react": "^16.4.1",
